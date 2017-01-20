@@ -1,9 +1,9 @@
 {
-  "version": "1.0.64",
-  "updated": "2017-01-18T06:53:15.452Z",
+  "version": "1.0.65",
+  "updated": "2017-01-20T03:05:56.997Z",
   "githash": {
-    "hash": "b9d889273ba9915209cf4a5819cbe6c258fc8a64",
-    "short": "b9d8892",
+    "hash": "ec567a530e43508872b62d3d3389d0a5030ca5c8",
+    "short": "ec567a5",
     "tag": "v1.0.63",
     "branch": "master"
   }
